@@ -1,10 +1,7 @@
-# Hi, I'm Emilie! 👋
+# Learning in progress 👩🏼‍💻
 
-I'm a web content manager and I am currently training in fullstack web development to complete my skills 😎
-
-
-🌱 I'm currently learning Vue.js and Three.js
-
+🌱 Vue.js
+🌱 Creative JavaScript
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emilipothese.dev/)
