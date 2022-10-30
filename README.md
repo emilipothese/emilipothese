@@ -1,6 +1,6 @@
 # Learning in progress 👩🏼‍💻
 
-🌱 Vue.js
+🔭 Vue.js\
 🌱 Creative JavaScript
 
 ## 🔗 Links
