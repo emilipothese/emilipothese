@@ -1,4 +1,4 @@
-# Learning in progress 👩🏼‍💻
+## 👩🏼‍💻 Learning in progress
 
 🔭 Vue.js\
 🌱 Creative JavaScript
